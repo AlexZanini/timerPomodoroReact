@@ -2,18 +2,18 @@
 Este projeto baseado na técnica Pomodoro. Esta aplicação permite que você defina um timer para suas tarefas e interrompa-as se necessário. Você pode ver o histórico das suas tarefas concluídas, interrompidas ou ainda em andamento.
 
 ## Funcionalidades
-Adicionar um novo ciclo com um nome de tarefa e uma quantidade de minutos
-Interromper um ciclo atual
-Visualizar o tempo restante no ciclo atual
-Visualizar um histórico de todos os ciclos, incluindo a tarefa, a duração, a data de início e o status (concluído, interrompido ou em andamento)
+- Adicionar um novo ciclo com um nome de tarefa e uma quantidade de minutos.
+- Interromper um ciclo atual.
+- Visualizar o tempo restante no ciclo atual.
+- Visualizar um histórico de todos os ciclos, incluindo a tarefa, a duração, a data de início e o status (concluído, interrompido ou em andamento).
 
 ## Tecnologias Utilizadas
-React.js
-TypeScript
-Styled-components
-React Router
-Date-fns
-React Hook Form
+- React.js
+- TypeScript
+- Styled-components
+- React Router
+- Date-fns
+- React Hook Form
 
 ## Estrutura dos Arquivos
 
